@@ -1,4 +1,4 @@
-# weather-bot
+# Weather
 
 My daddy needs cheking weather. And i created telegram bot, what show information about weather in my sity
 
