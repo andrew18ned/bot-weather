@@ -4,7 +4,7 @@ My daddy needs cheking weather. And i created telegram bot, what show informatio
 
 ![chat](https://github.com/andrew18ned/bot-weather/blob/main/app/7.png)
 
-### Used
+## Used
 * request
 * API weather
 * pytelergamapi
