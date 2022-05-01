@@ -8,6 +8,6 @@ My daddy needs cheking weather. And i created telegram bot, what show informatio
 * pytelergamapi
 
 ## Run
-source env/bin/activate
-cd app
-python main.py
+source env/bin/activate  
+cd app  
+python main.py  
