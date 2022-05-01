@@ -1,6 +1,6 @@
 # Weather
 
-My daddy needs cheking weather. And i created telegram bot, what show information about weather in my sity
+My daddy needed check the weather. And i created telegram bot, what show information about weather in my sity realtime
 
 ![chat](https://github.com/andrew18ned/bot-weather/blob/main/app/7.png)
 
