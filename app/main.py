@@ -41,5 +41,5 @@ def lalala(message):
             bot.send_message(message.chat.id, message.text)
 
 
-# RUN
+# RUN bot name is @weather_for_my_daddy_bot
 bot.polling(none_stop=True)

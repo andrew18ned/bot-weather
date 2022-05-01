@@ -4,8 +4,10 @@ My daddy needs cheking weather. And i created telegram bot, what show informatio
 
 ### Used
 * request
-* API 
-* pytelergam
+* API weather
+* pytelergamapi
 
 ## Run
+source env/bin/activate
+cd app
 python main.py
