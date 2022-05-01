@@ -10,19 +10,19 @@ def give_weathe(message):
     bot.send_message(message.chat.id, request_weather.template)
   
     if request_weather.data["weather"][0]["description"] == 'overcast clouds':    
-        img = open("images/overcast_clouds.png", 'rb')
+        img = open("app/images/overcast_clouds.png", 'rb')
         bot.send_photo(message.chat.id, img)
 
     elif request_weather.data["weather"][0]["description"] == 'clear sky':
-        img = open("images/clear_sky.png", 'rb')
+        img = open("app/images/clear_sky.png", 'rb')
         bot.send_photo(message.chat.id, img)
     
     elif request_weather.data["weather"][0]["description"] == 'light snow':
-        img = open("images/snow.png", 'rb')
+        img = open("app/images/snow.png", 'rb')
         bot.send_photo(message.chat.id, img)
     
     elif request_weather.data["weather"][0]["description"] == 'light rain':
-        img = open("images/rain.png", 'rb')
+        img = open("app/images/rain.png", 'rb')
         bot.send_photo(message.chat.id, img)
 
 
